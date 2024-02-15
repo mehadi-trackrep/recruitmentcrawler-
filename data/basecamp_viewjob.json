@@ -1,0 +1,221 @@
+{
+    "accountKey": null,
+    "additionalLinksEnabled": true,
+    "additionalLinksViewModel": {
+        "careerGuideArticleLinks": [],
+        "similarCategoryLinks": [],
+        "similarJobTitleLinks": []
+    },
+    "apiPaths": {},
+    "apolloCachedResponse": null,
+    "appCommonData": null,
+    "applyButtonSDKEnabled": false,
+    "base64EncodedJson": "eyJjIjp0cnVlLCJlIjp0cnVlLCJnIjoiaHR0cDovL3d3dy5pbmRlZWQuY29tL20vYmFzZWNhbXAvdmlld2pvYj92aWV3dHlwZT1lbWJlZGRlZCZqaz1kOGI1NTAyNTA2OTllNTlhIiwiaCI6Ik1UUiBUZWNoIHPDtmtlciBlbiBEZXDDpWNoZWYgdGlsbCBFc2tpbHN0dW5hcyBUw6VnZGVww6UiLCJpIjoiRXNraWxzdHVuYSIsImoiOiJvcmdhbmljIn0",
+    "baseInboxUrl": "https:\u002F\u002Finbox.indeed.com",
+    "baseUrl": "https:\u002F\u002Fwww.indeed.com",
+    "benefitsModel": {
+        "benefits": [
+            {
+                "key": "6XHWW",
+                "label": "Commuter assistance"
+            }
+        ],
+        "benefitsCollapseThreshold": 999
+    },
+    "callToInterviewButtonModel": null,
+    "categorizedAttributesModel": null,
+    "chatbotApplyButtonLinkModel": null,
+    "clientsideProctorGroups": {
+        "collapsedJobDescription": false,
+        "simple2Pane": true,
+        "splitRender": false,
+        "showSalaryGuide": true,
+        "callToApplyStickyBelowApplyNow": false,
+        "richerAppPromoV4": false,
+        "richerAppPromoV3": false,
+        "callToApplyStickySideBySide": false,
+        "connectionNavigator": false,
+        "richerAppPromoV5": false,
+        "simpleVJ": false,
+        "richerAppPromoV2": false,
+        "richerAppPromoV1": false,
+        "addSaveButtonBack": false,
+        "oneGraphMigrationTitle": false,
+        "isConnectionNavigatorCallPrimary": true,
+        "simpleLongTermHoldout": false,
+        "desktopvj_stickyheader_tst": false,
+        "simpleDesktopLongTermHoldout": false,
+        "callButtonPrimaryApplySecondary": false
+    },
+    "cmiJobCategoryModel": null,
+    "collapsedDescriptionPayload": {
+        "descriptionHeight": "10rem",
+        "isDisclaimerAboveApply": false
+    },
+    "commuteInfoModel": null,
+    "companyAvatarModel": null,
+    "companyFollowFormModel": null,
+    "companyTabModel": null,
+    "contactPersonModel": null,
+    "country": "US",
+    "cssResetProviders": {
+        "mosaic-provider-reportcontent": false,
+        "mosaic-provider-salary-feedback": true,
+        "js-match-insights-provider": false,
+        "MosaicProviderCallToApplyFeedback": true
+    },
+    "ctk": "1gsm9g4m3jr5a801",
+    "dcmModel": {
+        "category": "jobse0",
+        "source": "6927552",
+        "type": "organic"
+    },
+    "desktop": true,
+    "dgToken": "94C1F57E9F60F2588E6663F37F676763",
+    "dislikeFrom2paneEnabled": true,
+    "downloadAppButtonModel": null,
+    "employerResponsiveCardModel": null,
+    "from": null,
+    "globalnavFooterHTML": "",
+    "globalnavHeaderHTML": "",
+    "highQualityMarketplace": null,
+    "highQualityMarketplaceHiringManager": null,
+    "hiringInsightsModel": {
+        "age": "Just posted",
+        "employerLastReviewed": null,
+        "employerResponsiveCardModel": null,
+        "numOfCandidates": null,
+        "postedToday": true,
+        "recurringHireText": null,
+        "urgentlyHiringModel": null
+    },
+    "indeedApplyButtonContainer": null,
+    "indeedLogoModel": null,
+    "inlineJsErrEnabled": false,
+    "isApp": false,
+    "isApplyTextColorChanges": true,
+    "isApplyTextSizeChanges": true,
+    "isCriOS": false,
+    "isDislikeFormV2Enabled": false,
+    "isSafariForIOS": false,
+    "isSalaryNewDesign": false,
+    "isSyncJobs": false,
+    "jasJobViewPingModel": null,
+    "jasxInputWhatWhereActive": true,
+    "jobAlertSignInModalModel": null,
+    "jobAlertSignUp": null,
+    "jobCardStyleModel": {
+        "elementSpacingIncreased": false,
+        "fontSizeEnlarged": false,
+        "highContrastIconShown": false,
+        "jobCardShelfApplied": false,
+        "salaryBlack": false,
+        "shouldMarkClickedJobAsVisited": true
+    },
+    "jobInfoWrapperModel": {
+        "jobInfoModel": {
+            "appliedStateBannerModel": null,
+            "commuteInfoModel": null,
+            "expiredJobMetadataModel": null,
+            "hideCmpHeader": false,
+            "isSmbD2iEnabled": false,
+            "jobDebugInfoModel": null,
+            "jobDescriptionSectionModel": {
+                "acmeMicrocontentSurveyUrl": "https:\u002F\u002Fcocos-api.indeed.com",
+                "isViewJobMismatchBadgeLoggingEnabled": false,
+                "jobDetailsSection": {
+                    "contents": {},
+                    "highlightedAttributesSectionModels": [],
+                    "interactivePreferenceCollectionTst": -1,
+                    "isJobDetailPreferenceCollectionEnabled": false,
+                    "isJobDetailsShiftPreferenceCollectionEnabled": false,
+                    "isJobExpired": false,
+                    "isMinimumPayPreferenceEnabled": false,
+                    "isMobPreferenceMatchVJActive": true,
+                    "isMobVJSimpleJobDetailsActive": false,
+                    "isPreferenceMismatchBanIconEnabled": false,
+                    "jobTypes": [
+                        {
+                            "customClassLabels": [],
+                            "customClassSuids": [],
+                            "label": "Full-time",
+                            "sentiment": "UNKNOWN",
+                            "suid": ""
+                        },
+                        {
+                            "customClassLabels": [],
+                            "customClassSuids": [],
+                            "label": "Permanent",
+                            "sentiment": "UNKNOWN",
+                            "suid": ""
+                        }
+                    ],
+                    "minimumPayPreferenceTst": -1,
+                    "salaryInfoModel": null,
+                    "shiftsAndSchedule": null,
+                    "title": "Job details"
+                },
+                "order": [
+                    "JOB_DETAILS",
+                    "QUALIFICATIONS"
+                ],
+                "qualificationsSectionModel": null
+            },
+            "jobInfoHeaderModel": {
+                "a11yNewtabIconActive": true,
+                "companyImagesModel": {
+                    "ejiBannerAsBackground": false,
+                    "enhancedJobDescription": false,
+                    "featuredEmployer": false,
+                    "headerImageUrl": null,
+                    "logoAltText": "MTR Tech logo",
+                    "logoImageOverlayLower": false,
+                    "logoUrl": null,
+                    "showBannerTop": false,
+                    "showEnhancedJobImp": false,
+                    "showIconInTitle": false
+                },
+                "companyName": "MTR Tech",
+                "companyOverviewLink": "https:\u002F\u002Fwww.indeed.com\u002Fcmp\u002FMtr-Tech?campaignid=mobvjcmp&from=mobviewjob&tk=1h2alk9gpi0ch800&fromjk=d8b550250699e59a",
+                "companyReviewLink": "https:\u002F\u002Fwww.indeed.com\u002Fcmp\u002FMtr-Tech\u002Freviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1h2alk9gpi0ch800&fromjk=d8b550250699e59a&jt=MTR+Tech+s%C3%B6ker+en+Dep%C3%A5chef+till+Eskilstunas+T%C3%A5gdep%C3%A5",
+                "companyReviewModel": null,
+                "employerActivity": null,
+                "employerResponsiveCardModel": null,
+                "encryptedFccCompanyId": null,
+                "formattedLocation": "Eskilstuna",
+                "hideRating": false,
+                "isDesktopApplyButtonSticky": false,
+                "isSimplifiedHeader": false,
+                "jobNormTitle": null,
+                "jobTitle": "MTR Tech söker en Depåchef till Eskilstunas Tågdepå",
+                "jobTypes": null,
+                "location": null,
+                "mobileStickyVjHeaderActive": false,
+                "openCompanyLinksInNewTab": false,
+                "parentCompanyName": null,
+                "preciseLocationModel": null,
+                "ratingsModel": null,
+                "recentSearch": null,
+                "remoteLocation": false,
+                "remoteWorkModel": null,
+                "salaryCurrency": null,
+                "salaryMax": null,
+                "salaryMin": null,
+                "salaryType": null,
+                "subtitle": "MTR Tech - Eskilstuna",
+                "tagModels": null,
+                "taxonomyAttributes": null,
+                "viewJobDisplay": "DESKTOP_EMBEDDED",
+                "workplaceInsightsModel": null
+            },
+            "jobMetadataHeaderModel": {
+                "jobType": "Full-time, Permanent"
+            },
+            "jobTagModel": null,
+            "resumeEvaluationResult": null,
+            "sanitizedJobDescription": {
+                "content": "<div>\n <h2 class=\"jobSectionHeader\"><b>Eskilstuna<\u002Fb><\u002Fh2>\n <p><br> <\u002Fp>\n <div>\n  <p><b>Arbetsuppgifter<\u002Fb> <\u002Fp>\n  <div>\n   • Säkerställa leverans av fordon i tid till trafik och underhåll av fordon enligt plan\n   <br> \n   <ul>\n    <li> Vara en kulturbärare som förmedlar MTRs värderingar till alla i depån i ord och handling<\u002Fli>\n    <li> Leda den Operativa Ledningsgruppen där vi styr, samordnar, följer upp och utvecklar verksamheten och säkerställer att produktionen levererar enligt kundens krav och våra uppsatta mål inom depån<\u002Fli>\n    <li> Delta i det strategiska ledningsgruppsarbetet<\u002Fli>\n    <li> Leda Produktionscheferna<\u002Fli>\n    <li> Samverka med MTR, kunder och andra intressenter<\u002Fli>\n    <li> Driva utveckling av processer, systemstöd och rutiner <\u002Fli>\n    <li> Säkerställa att produktionen håller rätt kvalitet<\u002Fli>\n    <li> Ansvar för budget, resultat och KPI-uppföljning<\u002Fli>\n    <li> Utveckla medarbetare, ansvara för medarbetarnöjdhet<\u002Fli>\n    <li> Följa och hålla sig uppdaterad i tillämpliga lagar, avtal och MTR processer och mål<\u002Fli>\n    <li> Ansvar enligt delegering för arbetsmiljö, säkerhet, miljö och trafiksäkerhet<\u002Fli>\n   <\u002Ful>\n   <br> För att prestera och trivas i rollen behöver du tycka om att samverka och värna om gott samarbete, kunna styra genom tydlig kommunikation i tal och skrift, bygga struktur och praktiskt fungerande rutiner. Du är bekväm med att ta snabba men välgrundade beslut. \n   <br> Arbetstiderna är förlagda under dagtid. \n  <\u002Fdiv>\n  <p><b>Kvalifikationer<\u002Fb> <\u002Fp>\n  <div>\n   • Gedigen erfarenhet för underhållsproduktion, helst avseende underhåll av spårfordon\n   <br> \n   <ul>\n    <li> Mycket goda ledaregenskaper, förmåga att ta tydliga beslut och få med dig andra i besluten<\u002Fli>\n    <li> Erfarenhet av att leda verksamhet genom andra ledare\u002Fchefer<\u002Fli>\n    <li> Förmåga att skapa förtroende i relationer, kommunicera i tal och skrift och förmedla budskap till kund, personal och ledning<\u002Fli>\n    <li> Intresse för att utveckla dina medarbetare<\u002Fli>\n    <li> Förmåga att driva förändringsarbete<\u002Fli>\n    <li> Dokumenterad erfarenhet av en ledarroll med resultat- och personalansvar <\u002Fli>\n    <li> Eftergymnasial utbildning inom teknik eller ekonomi<br> <\u002Fli>\n   <\u002Ful>\n  <\u002Fdiv>\n  <p>Ingen erfarenhet kräv…"
+            }
+        }
+    }
+}

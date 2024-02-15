@@ -1,0 +1,3186 @@
+{
+    "metaData": {
+        "isJpBundle": false,
+        "mosaicProviderJobCardsModel": {
+            "adSignature": "3858",
+            "appName": "jasx",
+            "applyHolisticStyle": true,
+            "bot": false,
+            "brandedAds": [],
+            "csrfToken": "7Rnac05lk9ofjjZkIDCgwqxXRgw3CVOK",
+            "encryptedQueryData": "RnZhMybXSk4M3QtTVGXWoYFAN1GbSnG0wV-dcYutCHK7MeGQ-4bHqQ3O8nXt_OXy3qX5OSJbmlpPkujAM2gq91Ek6gyhcllY72-ykhTuYJM",
+            "experienceLevelFilterRefineBy": "",
+            "fccId": -1,
+            "hasResume": false,
+            "indeedApplyOnlyFilterUsed": false,
+            "ipCountry": "ID",
+            "isDesktop": true,
+            "isHighContrastIconShown": true,
+            "isIpadApp": false,
+            "isJobCardShelfApplied": true,
+            "isTablet": false,
+            "jobCardVariant": "DEFAULT",
+            "jobSeenLogParameters": {},
+            "kebabMenuEnabled": true,
+            "linkTargetAttribute": "_blank",
+            "loggedIn": false,
+            "mobtk": "1h2a8lilikcrl800",
+            "mosaicNonJobContent": [],
+            "mustShowSponsoredLabel": false,
+            "myIndeedEnabled": true,
+            "myIndeedRegisterLink": "https://secure.indeed.com/account/register?co=SE&hl=sv_SE&continue=http%3A%2F%2Fse.indeed.com%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+            "noJsUrlOnly": false,
+            "overrideShelf": true,
+            "pageNumber": 1,
+            "passportLoginLink": "https://secure.indeed.com/account/login?co=SE&hl=sv_SE&continue=http%3A%2F%2Fse.indeed.com%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+            "prforceGroups": "",
+            "proctorContext": {
+                "accountId": -1,
+                "app": false,
+                "country": "SE",
+                "ctkAge": 248,
+                "ctkDate": "20230607",
+                "hasRez": false,
+                "lang": "sv",
+                "loggedIn": false,
+                "mtkAge": 248,
+                "platform": "",
+                "privileged": false,
+                "smartphone": false,
+                "stealthGroups": [],
+                "tablet": false,
+                "uaData": "{"android":false,"androidApp":false,"androidEmployerApp":false,"androidJobSearchApp":false,"app":false,"bot":false,"browser":"EDGE","browserFamily":"EDGE","browserReleaseVersion":{"matchPrecision":"BUILD","version":27021597833297982},"browserVersion":{"majorVersion":"96","minorVersion":"0","version":"96.0.1054.62"},"chrome":false,"chromeForIOS":false,"currentJobseekerDeprecatedBrowser":false,"deviceType":"COMPUTER","droidRezUploadDialog":false,"dumbPhone":false,"employerApp":false,"fileUploadCapable":true,"futureJobseekerDeprecatedBrowser":true,"geolocationCapable":false,"googleWebLight":false,"ios":false,"iosemployerApp":false,"iosjobSearchApp":false,"ipad":false,"ipadApp":false,"ipadJobSearchApp":false,"jobSearchApp":false,"mobileDevice":false,"operatingSystem":"WINDOWS","os":{"family":"windows","majorVersion":-1,"minorVersion":-1,"osFamily":"windows","osVersion":{"matchPrecision":"BUILD","version":0},"patchVersion":-1,"releaseVersion":{"matchPrecision":"BUILD","version":0},"version":""},"phone":false,"releaseVersion":{"matchPrecision":"BUILD","version":27021597833297982},"safari":false,"safariForIOS":false,"smartPhone":false,"tablet":false,"uaVersion":{"matchPrecision":"BUILD","version":27021597833297982},"userAgentDelegate":{"android":false,"bot":false,"browser":"EDGE","browserName":"Edge","browserReleaseVersion":{"matchPrecision":"BUILD","version":27021597833297982},"browserVersion":{"majorVersion":"96","minorVersion":"0","version":"96.0.1054.62"},"browserVersionString":"96.0.1054.62","chrome":false,"delegate":{"allFields":{"DeviceClass":{"confidence":101,"defaultValue":"Unknown","isDefaultValue":false,"value":"Desktop"},"DeviceName":{"confidence":101,"defaultValue":"Unknown","isDefaultValue":false,"value":"Desktop"},"DeviceBrand":{"confidence":0,"defaultValue":"Unknown","isDefaultValue":true,"value":"Unknown"},"OperatingSystemClass":{"confidence":101,"defaultValue":"Unknown","isDefaultValue":false,"value":"Desktop"},"OperatingSystemName":{"confidence":102,"defaultValue":"Unknown","isDefaultValue":false,"value":"Windows NT"},"OperatingSystemVersion":{"confidence":102,"defaultValue":"??","isDefaultValue":false,"value":"\u003E=10"},"OperatingSystemVersionMajor":{"confidence":102,"defaultValue":"??","isDefaultValue":false,"value":"\u003E=10"},"AgentClass":{"confidence":2015,"defaultValue":"Unknown","isDefaultValue":false,"value":"Browser"},"AgentName":{"confidence":2015,"defaultValue":"Unknown","isDefaultValue":false,"value":"Edge"},"AgentVersion":{"confidence":2015,"defaultValue":"??","isDefaultValue":false,"value":"96.0.1054.62"},"AgentInformationEmail":{"confidence":-1,"defaultValue":"Unknown","isDefaultValue":true,"value":"Unknown"},"AgentInformationUrl":{"confidence":-1,"defaultValue":"Unknown","isDefaultValue":true,"value":"Unknown"},"WebviewAppName":{"confidence":-1,"defaultValue":"Unknown","isDefaultValue":true,"value":"Unknown"},"WebviewAppVersion":{"confidence":-1,"defaultValue":"??","isDefaultValue":true,"value":"??"},"__SyntaxError__":{"confidence":-1,"defaultValue":"false","isDefaultValue":true,"value":"false"}},"ambiguityCount":0,"availableFieldNamesSorted":["DeviceClass","DeviceName","DeviceBrand","OperatingSystemClass","OperatingSystemName","OperatingSystemVersion","OperatingSystemVersionMajor","AgentClass","AgentName","AgentVersion","AgentInformationEmail","AgentInformationUrl","WebviewAppName","WebviewAppVersion","__SyntaxError__"],"cleanedAvailableFieldNamesSorted":["DeviceClass","DeviceName","DeviceBrand","OperatingSystemClass","OperatingSystemName","OperatingSystemVersion","OperatingSystemVersionMajor","AgentClass","AgentName","AgentVersion"],"hasAmbiguity":false,"hasSyntaxError":false,"headers":{"User-Agent":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62"},"userAgentString":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62","userAgentStringField":{"confidence":0,"defaultValue":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62","isDefaultValue":false,"value":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62"}},"deviceName":"Desktop","deviceType":"COMPUTER","deviceTypeString":"Desktop","dumbPhone":false,"ios":false,"ipad":false,"mobileDevice":false,"operatingSystem":"WINDOWS","operatingSystemFamily":"Windows NT","operatingSystemVersion":"\u003E=10","os":{"family":"windows","majorVersion":-1,"minorVersion":-1,"osFamily":"windows","osVersion":{"matchPrecision":"BUILD","version":0},"patchVersion":-1,"releaseVersion":{"matchPrecision":"BUILD","version":0},"version":""},"phone":false,"safari":false,"smartPhone":false,"tablet":false,"userAgentString":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62","webviewName":"Unknown","webviewVersion":{"matchPrecision":"BUILD","version":0},"windowsPhone":false},"userAgentString":"Mozilla\\u002F5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\u002F537.36 (KHTML, like Gecko) Chrome\\u002F97.0.4692.71 Safari\\u002F537.36 Edg\\u002F96.0.1054.62","version":{"major":96,"minor":0,"version":"96.0.1054.62"},"windowsPhone":false}"
+            },
+            "proctorIdentifiers": {
+                "ACCOUNT": "-1",
+                "USER": "1h2a8likfkjbn800"
+            },
+            "queryModifierResult": {
+                "originalQuery": "",
+                "queryModifiers": [
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=sommarjobb&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "sommarjobb"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=butik&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "butik"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=extrajobb&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "extrajobb"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=lager&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "lager"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=lagerarbetare&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "lagerarbetare"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=butikss%25C3%25A4ljare&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "butikssäljare"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=receptionist&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "receptionist"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=administrat%25C3%25B6r&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "administratör"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=deltid&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "deltid"
+                    },
+                    {
+                        "clickUrl": "http://se.indeed.com/jobs?q=undersk%25C3%25B6terska&l=Stockholm&from=querymodifiers&qm=1&oq=",
+                        "newQuery": "undersköterska"
+                    }
+                ]
+            },
+            "radius": 100,
+            "refineByTypes": [
+                "radius"
+            ],
+            "results": [
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=781eee275da1bee3&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Åhléns",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/90886c667a38c86249b46dc0cde2acf1",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aeca12ec2580b0e061c813ebd89b367f"
+                    },
+                    "companyIdEncrypted": "5c9a00fdc25999a4",
+                    "companyOverviewLink": "/cmp/%C3%85hl%C3%A9ns",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.8,
+                    "companyReviewCount": 97,
+                    "companyReviewLink": "/cmp/%C3%85hl%C3%A9ns/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Säljare & Varuplockare",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "d10fce6d22188801",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 170697,
+                    "formattedLocation": "Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationState": "AB",
+                    "jobTypes": [
+                        "Heltid",
+                        "Deltid",
+                        "Fast"
+                    ],
+                    "jobkey": "781eee275da1bee3",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=781eee275da1bee3&fccid=5c9a00fdc25999a4&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Åhléns",
+                        "companyText": "Jobb för Åhléns",
+                        "locationName": "Stockholm",
+                        "qnaUrl": "/cmp/%C3%85hl%C3%A9ns/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=781eee275da1bee3&jcid=5c9a00fdc25999a4",
+                        "resultNumber": 0,
+                        "salaryLocationName": "Stockholm",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/butiksmedarbetare/salaries/Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=781eee275da1bee3&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Åhléns",
+                        "viewAllCompanyUrl": "/q-%c3%85hl%c3%a9ns-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-butiksmedarbetare-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Butiksmedarbetare i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=8a63d64d9b982c81&jcid=5c9a00fdc25999a4&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "781eee275da1bee3",
+                        "link": "/rc/clk?jk=781eee275da1bee3&fccid=5c9a00fdc25999a4&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Butiksmedarbetare",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003ETjänsten är på deltid till heltid och vi ser gärna att du kan börja hos oss omgående eller enligt överenskommelse.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 1834058,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Deltid",
+                                    "suid": "75GKK"
+                                },
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Tillsvidare",
+                                    "suid": "5QWDV"
+                                },
+                                {
+                                    "label": "Deltid",
+                                    "suid": "75GKK"
+                                },
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Säljare & Varuplockare",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Åhléns",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=781eee275da1bee3&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=955d5f88e72cac80&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Max Burgers AB",
+                    "companyBrandingAttributes": {
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/01329c6f0b00c8a8d20e8845a2bdf59c"
+                    },
+                    "companyIdEncrypted": "03dcec7d2947dce5",
+                    "companyOverviewLink": "/cmp/Max-Burgers-Ab",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.3,
+                    "companyReviewCount": 101,
+                    "companyReviewLink": "/cmp/Max-Burgers-Ab/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "MAX Norrtälje söker medarbetare",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "62671cb4a1562b91",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expirationDate": 1686866399999,
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 128204,
+                    "formattedLocation": "Norrtälje",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Norrtälje",
+                    "jobLocationState": "AB",
+                    "jobTypes": [
+                        "Fast"
+                    ],
+                    "jobkey": "955d5f88e72cac80",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=955d5f88e72cac80&fccid=f6ddc016f934d2de&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Max Burgers AB",
+                        "companyText": "Jobb för Max Burgers AB",
+                        "locationName": "Norrtälje",
+                        "qnaUrl": "/cmp/Max-Burgers-Ab/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=955d5f88e72cac80&jcid=03dcec7d2947dce5",
+                        "resultNumber": 1,
+                        "salaryNoFollowLink": false,
+                        "shortLocationName": "Norrtälje",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Max Burgers AB",
+                        "viewAllCompanyUrl": "/q-max-burgers-ab-jobb.html",
+                        "viewAllLocationUrl": "/l-norrt%c3%a4lje-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-max-norrt%c3%a4lje-s%c3%b6ker-medarbetare-l-norrt%c3%a4lje-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Max Norrtälje Söker Medarbetare i Norrtälje",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=be3f24194494cf37&jcid=03dcec7d2947dce5&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "955d5f88e72cac80",
+                        "link": "/rc/clk?jk=955d5f88e72cac80&fccid=f6ddc016f934d2de&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Max Norrtälje Söker Medarbetare",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EVi hjälper dig på vägen med en tydlig plan, interna utbildningar och goda utvecklingsmöjligheter på Sveriges godaste burgarkedja.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 6616541,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Friskvårdsbidrag",
+                                    "suid": "DRN4J"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Tillsvidare",
+                                    "suid": "5QWDV"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Helgarbete förekommer",
+                                    "suid": "7SRRR"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "MAX Norrtälje söker medarbetare",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Max Burgers AB",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=955d5f88e72cac80&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=31d54be15fd040fc&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Fabrikspersonal i Sigtuna",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "31d54be15fd040fc",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=31d54be15fd040fc&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=31d54be15fd040fc&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 2,
+                        "salaryNoFollowLink": false,
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-fabrikspersonal-i-sigtuna-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Fabrikspersonal I Sigtuna i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=3af8dc4d1f00453d&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "31d54be15fd040fc",
+                        "link": "/rc/clk?jk=31d54be15fd040fc&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Fabrikspersonal I Sigtuna",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EAnställning utan krav på erfarenhet, vi ser enbart att du har följande personliga egenskaper.\u003C/li\u003E\n \u003Cli\u003EDu har en god förmåga att ta egna initiativ.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Måndag till fredag",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Fabrikspersonal i Sigtuna",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=31d54be15fd040fc&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=3b594e5d4fc20bea&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Natt Fabrikspersonal i Arlanda",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "3b594e5d4fc20bea",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=3b594e5d4fc20bea&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=3b594e5d4fc20bea&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 3,
+                        "salaryNoFollowLink": false,
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-natt-fabrikspersonal-i-arlanda-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Natt Fabrikspersonal I Arlanda i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=33417a9b7ecd0d09&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "3b594e5d4fc20bea",
+                        "link": "/rc/clk?jk=3b594e5d4fc20bea&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Natt Fabrikspersonal I Arlanda",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EAnställning utan krav på erfarenhet, vi ser enbart att du har följande personliga egenskaper.\u003C/li\u003E\n \u003Cli\u003EDu har en god förmåga att ta egna initiativ.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Natt",
+                                    "suid": "H3N5U"
+                                }
+                            ],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Natt",
+                                    "suid": "H3N5U"
+                                },
+                                {
+                                    "label": "Måndag till fredag",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Natt Fabrikspersonal i Arlanda",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=3b594e5d4fc20bea&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=09c466d987b7680a&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Fabrikspersonal i Märsta",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "09c466d987b7680a",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=09c466d987b7680a&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=09c466d987b7680a&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 4,
+                        "salaryNoFollowLink": false,
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-fabrikspersonal-i-m%c3%a4rsta-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Fabrikspersonal I Märsta i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=ddd2ddaf394145e7&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "09c466d987b7680a",
+                        "link": "/rc/clk?jk=09c466d987b7680a&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Fabrikspersonal I Märsta",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EAnställning utan krav på erfarenhet, vi ser enbart att du har följande personliga egenskaper.\u003C/li\u003E\n \u003Cli\u003EDu har en god förmåga att ta egna initiativ.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Måndag till fredag",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Fabrikspersonal i Märsta",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=09c466d987b7680a&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=c923fbd5e69beae5&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Infotiv",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "3c9efaf0c0848d49",
+                    "companyOverviewLink": "/cmp/Infotiv",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 4.5,
+                    "companyReviewCount": 4,
+                    "companyReviewLink": "/cmp/Infotiv/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Junior Teknikinformatör",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "5551371c9dc38d81",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expirationDate": 1686520799999,
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 74209,
+                    "formattedLocation": "Stockholm",
+                    "formattedRelativeTime": "Nyligen upplagt",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "c923fbd5e69beae5",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=c923fbd5e69beae5&fccid=3c9efaf0c0848d49&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Infotiv",
+                        "companyText": "Jobb för Infotiv",
+                        "locationName": "Stockholm",
+                        "resultNumber": 5,
+                        "salaryLocationName": "Stockholm",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/informat%C3%B6r/salaries/Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=c923fbd5e69beae5&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Infotiv",
+                        "viewAllCompanyUrl": "/q-infotiv-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-informat%c3%b6r-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Informatör i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=dd59e8d559d2216e&jcid=3c9efaf0c0848d49&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "c923fbd5e69beae5",
+                        "link": "/rc/clk?jk=c923fbd5e69beae5&fccid=3c9efaf0c0848d49&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Informatör",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EVi utvecklar egen teknologi och utbildningar för att ligga i framkant och kunna möta den moderna industrins behov.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 573781,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Junior Teknikinformatör",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Infotiv",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=c923fbd5e69beae5&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=209114d11c0ed874&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Serviceminded chaufför till Stockholm",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "209114d11c0ed874",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=209114d11c0ed874&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=209114d11c0ed874&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 6,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/Chauff%C3%B6r/H%C3%A4gersten",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=209114d11c0ed874&from=serp-more",
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-chauff%c3%b6r-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Chaufför i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=2eb4134c1495cabc&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "209114d11c0ed874",
+                        "link": "/rc/clk?jk=209114d11c0ed874&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Chaufför",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EFöretaget arbetar med livsmedel och söker nu en chaufför som kommer att leverera beställningar till deras kunder i både Stockholm och närliggande områden.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [
+                        "B-körkort"
+                    ],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [
+                        "ZAFQM"
+                    ],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Serviceminded chaufför till Stockholm",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=209114d11c0ed874&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=ff15e2b647ff5549&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Fabrikspersonal i Arlanda",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "ff15e2b647ff5549",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=ff15e2b647ff5549&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=ff15e2b647ff5549&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 7,
+                        "salaryNoFollowLink": false,
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-fabrikspersonal-i-arlanda-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Fabrikspersonal I Arlanda i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=e35c161d13be1f4e&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "ff15e2b647ff5549",
+                        "link": "/rc/clk?jk=ff15e2b647ff5549&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Fabrikspersonal I Arlanda",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EAnställning utan krav på erfarenhet, vi ser enbart att du har följande personliga egenskaper.\u003C/li\u003E\n \u003Cli\u003EDu har en god förmåga att ta egna initiativ.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Måndag till fredag",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Fabrikspersonal i Arlanda",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=ff15e2b647ff5549&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=184f064858b373ef&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Submit Bemanning",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "b8bcd6eb3988370c",
+                    "companyOverviewLink": "/cmp/Submit-Bemanning",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 2.6,
+                    "companyReviewCount": 5,
+                    "companyReviewLink": "/cmp/Submit-Bemanning/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Mat paketerare i Lunda (Spånga)",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "bb401f423758713d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "Hägersten",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hägersten",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "184f064858b373ef",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=184f064858b373ef&fccid=3bab9e4166b2d50f&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Submit Bemanning",
+                        "companyText": "Jobb för Submit Bemanning",
+                        "locationName": "Hägersten",
+                        "qnaUrl": "/cmp/Submit-Bemanning/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=184f064858b373ef&jcid=b8bcd6eb3988370c",
+                        "resultNumber": 8,
+                        "salaryLocationName": "Hägersten",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/lagerarbetare/salaries/Hägersten",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=184f064858b373ef&from=serp-more",
+                        "shortLocationName": "Hägersten",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Submit Bemanning",
+                        "viewAllCompanyUrl": "/q-submit-bemanning-jobb.html",
+                        "viewAllLocationUrl": "/l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-lagerarbetare-l-h%c3%a4gersten-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Lagerarbetare i Hägersten",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=e5bdd77401a47a6a&jcid=b8bcd6eb3988370c&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "184f064858b373ef",
+                        "link": "/rc/clk?jk=184f064858b373ef&fccid=3bab9e4166b2d50f&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Lagerarbetare",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EAnställning utan krav på erfarenhet, vi ser enbart att du har följande personliga egenskaper.\u003C/li\u003E\n \u003Cli\u003EDu har en god förmåga att ta egna initiativ.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481472,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Måndag till fredag",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mat paketerare i Lunda (Spånga)",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Submit Bemanning",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=184f064858b373ef&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=89819de3a26a31f3&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Nixu",
+                    "companyBrandingAttributes": {
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e3c493650b24c281c8712ddbfe312d3d"
+                    },
+                    "companyIdEncrypted": "e9b43076c0e8b176",
+                    "companyRating": 0,
+                    "companyReviewCount": 2,
+                    "d2iEnabled": false,
+                    "displayTitle": "Information Security Intern",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "19a645fc0ac564b8",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "111 60 Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationPostal": "11160",
+                    "jobLocationState": "AB",
+                    "jobTypes": [
+                        "Praktik"
+                    ],
+                    "jobkey": "89819de3a26a31f3",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=89819de3a26a31f3&fccid=e9b43076c0e8b176&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Nixu",
+                        "companyText": "Jobb för Nixu",
+                        "locationName": "Stockholm",
+                        "resultNumber": 9,
+                        "salaryLocationName": "Stockholm",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/it-security-specialist/salaries/111-60-Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=89819de3a26a31f3&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Nixu",
+                        "viewAllCompanyUrl": "/q-nixu-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-it-security-specialist-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för IT Security Specialist i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=8f255e39a41df8b9&jcid=e9b43076c0e8b176&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "89819de3a26a31f3",
+                        "link": "/rc/clk?jk=89819de3a26a31f3&fccid=e9b43076c0e8b176&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "IT Security Specialist",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_ALWAYS"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EYou will have your own mentor throughout your time with us and follow the daily work we do.\u003C/li\u003E\n \u003Cli\u003EOur Advisory Service unit provides information security consulting…\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 1289298,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Praktik",
+                                    "suid": "VDTG7"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Distansjobb",
+                                    "suid": "DSQF7"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Praktik",
+                                    "suid": "VDTG7"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Information Security Intern",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "英語",
+                        "完全在宅"
+                    ],
+                    "truncatedCompany": "Nixu",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=89819de3a26a31f3&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=580262ac9d0a2c4c&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Michael Kors",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/95ef9d5cebd6e7370fa9bc5b1421056d",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/29366aed0542d02df761c03d15b3dbbb"
+                    },
+                    "companyIdEncrypted": "927356efef1f3075",
+                    "companyRating": 0,
+                    "companyReviewCount": 1824,
+                    "d2iEnabled": false,
+                    "displayTitle": "Sales Supervisor Full Time Stockholm Biblioteksgatan",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "20af55a0ea21de6c",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 114393,
+                    "formattedLocation": "Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "580262ac9d0a2c4c",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=580262ac9d0a2c4c&fccid=927356efef1f3075&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Michael Kors",
+                        "companyText": "Jobb för Michael Kors",
+                        "locationName": "Stockholm",
+                        "resultNumber": 10,
+                        "salaryLocationName": "Stockholm",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/sales-manager/salaries/Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=580262ac9d0a2c4c&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Michael Kors",
+                        "viewAllCompanyUrl": "/q-michael-kors-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-sales-manager-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Sales Manager i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=572b5fe7d02924a6&jcid=927356efef1f3075&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "580262ac9d0a2c4c",
+                        "link": "/rc/clk?jk=580262ac9d0a2c4c&fccid=927356efef1f3075&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Sales Manager",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EYou are delivering an elevated customer experience and are an effective communicator, are keen to be trained and to inspire and train the sales team to achieve…\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 81897,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Personalrabatt",
+                                    "suid": "SXFZX"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Sales Supervisor Full Time Stockholm Biblioteksgatan",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "英語",
+                        "社割あり"
+                    ],
+                    "truncatedCompany": "Michael Kors",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=580262ac9d0a2c4c&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=326d90add9ff9db9&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Curoflow",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "83da34a22da58e0d",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Chief Marketing Officer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "812a3a9a005eeb61",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "112 28 Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationPostal": "11228",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "326d90add9ff9db9",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=326d90add9ff9db9&fccid=2c52f31b46e6270a&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Curoflow",
+                        "companyText": "Jobb för Curoflow",
+                        "locationName": "Stockholm",
+                        "resultNumber": 11,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/Chief%20Marketing%20Officer/Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=326d90add9ff9db9&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": false,
+                        "viewAllCompanyLinkText": "Jobb för Curoflow",
+                        "viewAllCompanyUrl": "/q-curoflow-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=d92f166a6b796011&jcid=83da34a22da58e0d&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "326d90add9ff9db9",
+                        "link": "/rc/clk?jk=326d90add9ff9db9&fccid=2c52f31b46e6270a&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Chief Marketing Officer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1668578400000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_ALWAYS"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli style="margin-bottom: 0px;"\u003EDoing administration that doesn’t help the patients.\u003C/li\u003E\n \u003Cli style="margin-bottom: 0px;"\u003EIt’s time to bring back the flow in healthcare.\u003C/li\u003E\n \u003Cli\u003EYou will report to the CEO and have the responsibility of…\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 20481495,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Distansjobb",
+                                    "suid": "DSQF7"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Friskvårdsbidrag",
+                                    "suid": "DRN4J"
+                                },
+                                {
+                                    "label": "Tjänstepension",
+                                    "suid": "KBRYN"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Chief Marketing Officer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "完全在宅"
+                    ],
+                    "truncatedCompany": "Curoflow",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=326d90add9ff9db9&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=7ea6ba4b75a8a2a0&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Patriksson Group",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "44e4c6fc5accffdd",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Talent Manager",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "45b1f645d686c8f5",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "114 36 Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationPostal": "11436",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "7ea6ba4b75a8a2a0",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=7ea6ba4b75a8a2a0&fccid=b0172632ddbf7d6e&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Patriksson Group",
+                        "companyText": "Jobb för Patriksson Group",
+                        "locationName": "Stockholm",
+                        "resultNumber": 12,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/Training%20Manager/Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=7ea6ba4b75a8a2a0&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Patriksson Group",
+                        "viewAllCompanyUrl": "/q-patriksson-group-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-training-manager-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Training Manager i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=45797c5efd1d03d6&jcid=44e4c6fc5accffdd&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "7ea6ba4b75a8a2a0",
+                        "link": "/rc/clk?jk=7ea6ba4b75a8a2a0&fccid=b0172632ddbf7d6e&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Training Manager",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EYou do this through building and nurturing relationships with existing and potential clients/brands within different segments in combination with excellent…\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 22595797,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Talent Manager",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "英語"
+                    ],
+                    "truncatedCompany": "Patriksson Group",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=7ea6ba4b75a8a2a0&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=533a3dfd384f21cf&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Learnifier",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "d6cf094aee973f5d",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Backend Tech Lead",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "55c6fbb60acc22f4",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "111 23 Stockholm",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stockholm",
+                    "jobLocationPostal": "11123",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "533a3dfd384f21cf",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=533a3dfd384f21cf&fccid=1a4389d80c130263&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Learnifier",
+                        "companyText": "Jobb för Learnifier",
+                        "locationName": "Stockholm",
+                        "resultNumber": 13,
+                        "salaryLocationName": "Stockholm",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/technical-lead/salaries/111-23-Stockholm",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=533a3dfd384f21cf&from=serp-more",
+                        "shortLocationName": "Stockholm",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Learnifier",
+                        "viewAllCompanyUrl": "/q-learnifier-jobb.html",
+                        "viewAllLocationUrl": "/l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-technical-lead-l-stockholm-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Technical Lead i Stockholm",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=8413227459e036ab&jcid=d6cf094aee973f5d&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "533a3dfd384f21cf",
+                        "link": "/rc/clk?jk=533a3dfd384f21cf&fccid=1a4389d80c130263&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Technical Lead",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1685682000000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_ALWAYS"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003ETo be competitive and successful - individuals, teams and organizations need to be able to access and share knowledge in easy, effective and engaging ways.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 13253222,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Distansjobb",
+                                    "suid": "DSQF7"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Backend Tech Lead",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "完全在宅"
+                    ],
+                    "truncatedCompany": "Learnifier",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=533a3dfd384f21cf&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "clickLoggingUrl": "/rc/clk?jk=9c1f45e64d4a25a7&from=jasx&tk=1h2a8lilikcrl800&vjs=2",
+                    "company": "Sjuksyrra AB",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "bd4e8dc8d9a06a98",
+                    "companyRating": 0,
+                    "companyReviewCount": 1,
+                    "d2iEnabled": false,
+                    "displayTitle": "Sjuksyrra AB söker Läkare, Allmänmedicin",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "b7dc498587cea389",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 244735,
+                    "formattedLocation": "195 43 Märsta",
+                    "formattedRelativeTime": "Idag",
+                    "hideMetaData": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "hiringEventJob": false,
+                    "homepageJobFeedSectionId": "0",
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Märsta",
+                    "jobLocationPostal": "19543",
+                    "jobLocationState": "AB",
+                    "jobTypes": [],
+                    "jobkey": "9c1f45e64d4a25a7",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=9c1f45e64d4a25a7&fccid=9ccd29ffecad51de&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1h2a8lilikcrl800",
+                    "moreLinks": {
+                        "companyName": "Sjuksyrra AB",
+                        "companyText": "Jobb för Sjuksyrra AB",
+                        "locationName": "Märsta",
+                        "qnaUrl": "/cmp/Sjuksyrra-Ab/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=9c1f45e64d4a25a7&jcid=bd4e8dc8d9a06a98",
+                        "resultNumber": 14,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/L%C3%A4kare/M%C3%A4rsta",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=9c1f45e64d4a25a7&from=serp-more",
+                        "shortLocationName": "Märsta",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jobb för Sjuksyrra AB",
+                        "viewAllCompanyUrl": "/q-sjuksyrra-ab-jobb.html",
+                        "viewAllLocationUrl": "/l-m%c3%a4rsta-jobb.html",
+                        "viewAllNormalizedTitleLink": "/q-l%c3%a4kare-l-m%c3%a4rsta-jobb.html",
+                        "viewAllNormalizedTitleLinkText": "Jobb för Läkare i Märsta",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=&l=Stockholm&radius=100&jtid=9a860dd1e3da29f5&jcid=bd4e8dc8d9a06a98&fromage=1&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "9c1f45e64d4a25a7",
+                        "link": "/rc/clk?jk=9c1f45e64d4a25a7&fccid=9ccd29ffecad51de&vjs=3",
+                        "tk": "1h2a8lilikcrl800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Läkare",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1686027600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "\u003Cul style="list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left: 20px;"\u003E \n \u003Cli\u003EVi söker en prestigelös, flexibel och självgående person som tar stort ansvar och har en god samarbetsförmåga.\u003C/li\u003E\n\u003C/ul\u003E",
+                    "sourceId": 7646436,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Tjänstepension",
+                                    "suid": "KBRYN"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Heltid",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Sjuksyrra AB söker Läkare, Allmänmedicin",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Sjuksyrra AB",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?jk=9c1f45e64d4a25a7&from=vjs&tk=1h2a8lilikcrl800&viewtype=embedded&continueUrl=%2Fjobb%3Ffromage%3D1%26start%3D0%26mGrp%3D-1%26radius%3D100%26l%3DStockholm",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                }
+            ],
+            "searchTimestamp": 1686119303858,
+            "searchUID": "1h2a8lilikcrl800",
+            "shouldMarkClickedJobAsVisited": false,
+            "shouldRunReactClientSide": true,
+            "shouldServerSideRender": true,
+            "shouldShowITAOverFE": false,
+            "shouldShowResponsiveEmployer": true,
+            "shouldUseJCSMouseDownHandler": true,
+            "showDislikeJobButton": true,
+            "showFeaturedCompany": true,
+            "showMobJobSnippet": true,
+            "showModalSaveMenu": false,
+            "showSaveJobButton": true,
+            "showSerpMetadata": false,
+            "showStations": false,
+            "stabilizeHTMLForSEO": false,
+            "tierSummaries": [],
+            "twoLineJobTitle": false,
+            "viewjobFrom": "jasx",
+            "what": "",
+            "where": "Stockholm"
+        },
+        "savedJobCount": 0
+    },
+    "proctorGroups": {
+        "mob_jobcards_service_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#F2"
+        },
+        "mobpreciseloctst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobnpsv2tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_app_reskin_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_tog": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_serp_i18n_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_spa_jcs_ssr_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_spa_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobserpvjtaxomatchtst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "mobipiatst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "mobmapandcommutetimetst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mob_nationwide_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_prefmatch_section_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mosaic_mobserp_acme_similar_companies_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#B12"
+        },
+        "jasxipiatst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "jsj_mobhp_mvpcontentinfeed_0620_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#D1",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "jsj_mobhp_mvpcontentinfeed_acct_0721_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "jcs_big6_tst": {
+            "group": "scheduleCC",
+            "value": 5,
+            "allocationId": "#F13"
+        },
+        "jcs_big6_prefmatch_tst": {
+            "group": "pref_match_UI_enabled",
+            "value": 1,
+            "allocationId": "#F4"
+        },
+        "jcs_dislikeform_v2_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_pay_for_performance_ui_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#D4"
+        },
+        "js_hqm_connect_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "map": {
+                    "REQUIRED_JOB_MATCHES_FOR_PAGE_LOAD_OPT_IN": -1
+                }
+            }
+        },
+        "jcs_big6_attr_priority_display_tst": {
+            "group": "attr_display_priority_enabled",
+            "value": 1,
+            "allocationId": "#C3"
+        },
+        "jcs_job_click_url_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#C2"
+        },
+        "posted_days_ago_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#C3"
+        },
+        "jcs_reduce_middle_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#B3"
+        },
+        "jcs_serp_rollup_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsg_zeroauthprofile_fakedoor_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsj_hp_feedsections_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsj_hp_gatedhomepage_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "map": {
+                    "jobsBeforeGate": 0,
+                    "interactionPattern": "none"
+                }
+            }
+        },
+        "cmi_jp_hide_job_category_tst": {
+            "group": "control",
+            "value": 0,
+            "allocationId": ""
+        },
+        "seg_call_cta_serp_job_card": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_jsfe_new_iabadge_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsj_hp_matchexplanation_tst": {
+            "group": "nontransparent",
+            "value": 1,
+            "allocationId": "#A6"
+        },
+        "acme_single_work_insight_label": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "json": {
+                    "labels": [],
+                    "starOnSerp": true,
+                    "starOnViewJob": true,
+                    "multiLabelVariant": 0,
+                    "useCompanyNameAsLink": false,
+                    "showGlassdoorBranding": false
+                }
+            }
+        },
+        "acme_single_work_insight_label_desktop": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "json": {
+                    "labels": [],
+                    "starOnSerp": true,
+                    "starOnViewJob": true,
+                    "multiLabelVariant": 0,
+                    "useCompanyNameAsLink": false,
+                    "showGlassdoorBranding": false
+                }
+            }
+        },
+        "cmi_jp_jsfe_remove_jobcards_sponsor_label_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "shift_label_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsrch_savejobredirect_tst": {
+            "group": "grp1",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "ibu_india_job_cards_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_unified_ia_badge_tst": {
+            "group": "grp1",
+            "value": 1,
+            "allocationId": "#C3"
+        },
+        "jsj_hp_saveicon_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#C3"
+        },
+        "cmi_spa_accnt_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_batch_jobseen_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#D1",
+            "payload": {
+                "json": {
+                    "batchDelay": 0,
+                    "maxBatchSize": -1
+                }
+            }
+        },
+        "seg_jse_location_nudge": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobserpvjmultiplecandidatetst": {
+            "group": "vjExactAndSerp",
+            "value": 3,
+            "allocationId": "#E3"
+        },
+        "jcs_detailed_multihire_badge_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "fe_blackoutadunitlogo_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A5"
+        },
+        "jcs_lever_tst": {
+            "group": "grp18",
+            "value": 18,
+            "allocationId": "#A2"
+        },
+        "jcs_applybtn_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_hide_jd_snippets_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "hp_override_cmi_jp_job_feed_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mob_pref_search_suggestions_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "crashtextiutst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "de_de_intl40822_crashtext": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "call_cta_serp_job_card_crashtxt": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "jcs_add_requirements_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A3"
+        }
+    },
+    "deploymentGroup": "dubprod1",
+    "artifacts": {
+        "hiringEventInfoMap": {},
+        "responsiveEmployerMap": {}
+    },
+    "isApp": false,
+    "isAndroid": false,
+    "shouldRunReactClientSide": true,
+    "countryCode": "SE",
+    "language": "sv",
+    "isProduction": true,
+    "oneGraphUrl": "https://apis.indeed.com/graphql",
+    "oneGraphApiKey": "4478d7e8947a5d00ef519267aceb40da79a62388a57366b00e5a0c090533c6fd",
+    "ctk": "1h2a8likfkjbn800",
+    "isHorizontalMode": false,
+    "hostId": "jobsearch",
+    "pageId": "serpGlobal"
+}

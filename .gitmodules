@@ -1,0 +1,3 @@
+[submodule "aws_services"]
+	path = aws_services
+	url = git@bitbucket.org:goava/aws_services.git
